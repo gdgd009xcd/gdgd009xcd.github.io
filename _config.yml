@@ -1,0 +1,7 @@
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-sitemap
+title: gdgd009xcd
+show_downloads: false
+description: a security enthusiast. I'm interest in sql injection test or scanning with multi step sequences.
