@@ -1,4 +1,4 @@
-# gdgd009xcd.github.io
+# gdgd009xcd
 gdgd009xcd is a security enthusiast in NIPPON(日本==Japan). <BR>My main goal is  to make free security tools using easier and more automated and hopefully more sofisticated.
 
 #### This addon uses sofisticated way to find SQL injection.
