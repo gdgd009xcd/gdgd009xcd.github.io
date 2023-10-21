@@ -6,7 +6,7 @@ gdgd009xcd is a security enthusiast in NIPPON(日本==Japan). <BR>My main goal i
 <A HREF="https://github.com/gdgd009xcd/CustomActiveScanForZAP"> Or Go to Github repository</A></DIV>
 
 #### This addon can make multi step request sequences without scripting and run on ZAPROXY active scanner
-<DIV class="setfont_archtect centering_inlines"><A HREF="https://gdgd009xcd.github.io/AutoMacroBuilderForZAP/"><IMG SRC="https://repository-images.githubusercontent.com/276077630/3e040703-9dfb-47cf-a48c-ca8c8e0c93c1" width="30%" height="30%"></A>
-<A class="testborder" HREF="https://github.com/gdgd009xcd/AutoMacroBuilderForZAP"> Or Go to Github repository</A></DIV>
+<DIV class="setfont_archtect centering_inlines　testborder"><A HREF="https://gdgd009xcd.github.io/AutoMacroBuilderForZAP/"><IMG SRC="https://repository-images.githubusercontent.com/276077630/3e040703-9dfb-47cf-a48c-ca8c8e0c93c1" width="30%" height="30%"></A>
+<A HREF="https://github.com/gdgd009xcd/AutoMacroBuilderForZAP"> Or Go to Github repository</A></DIV>
 
 enjoy.
