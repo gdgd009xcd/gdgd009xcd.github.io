@@ -40,7 +40,8 @@ header a {
 }
 
 .centering_inlines {
-    text-align: center;
+    display: flex;
+    align-items: center;
 }
 
 /* All Mobile Sizes (devices and browser) */
