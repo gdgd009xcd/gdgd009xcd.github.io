@@ -45,13 +45,11 @@ header a {
     align-items: center;
 }
 
-.testborder {
-    border: 1px solid #000;
-    white-space:nowrap;
-}
 
-.reset_inline {
-    display: inline;
+
+.center_inlineblock {
+    border: 1px solid #000;
+    vertical-align: middle;
 }
 
 /* All Mobile Sizes (devices and browser) */
