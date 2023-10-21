@@ -50,6 +50,10 @@ header a {
     white-space:nowrap;
 }
 
+.reset_inline {
+    display: inline;
+}
+
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   .inner {
