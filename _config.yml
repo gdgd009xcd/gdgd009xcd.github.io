@@ -4,4 +4,4 @@ plugins:
 - jekyll-sitemap
 title: gdgd009xcd
 show_downloads: false
-description: a security enthusiast. I'm interest in sql injection test or scanning with multi step sequences.
+description: a security enthusiast. I'm researching better SQL injection tests and trying to solve problems with scanning in multi-step sequences.
