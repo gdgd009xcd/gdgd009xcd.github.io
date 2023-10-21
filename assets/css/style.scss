@@ -35,9 +35,13 @@ header a {
   word-wrap: break-all;
 }
 
-.inline_archtect {
+.setfont_archtect {
     font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-    vertical-align: middle;
+}
+
+.centering_inlines {
+    display: flex;
+    justify-content: center;
 }
 
 /* All Mobile Sizes (devices and browser) */
