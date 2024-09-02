@@ -3,8 +3,8 @@ gdgd009xcd is a security enthusiast in NIPPON(日本==Japan). <BR>My main goal i
 
 
 ## <IMG SRC="assets/images/handsome2.png" width="40" height="40">  PINBALL HIGH SCORE 
-Nautilus 2018 simulation 5 ball
-No.6 914,392,700 gdgd009xcd<BR>
+Nautilus 2018 arcade 3 ball
+No.4 965,287,900 gdgd009xcd<BR>
 
 
 ## PRODUCTS
