@@ -13,7 +13,7 @@ No.4 965,287,900 gdgd009xcd<BR>
 <A class="setfont_archtect center_inlineblock" HREF="https://github.com/gdgd009xcd/CustomActiveScanForZAP"> Or Go to Github repository</A>
 
 #### This addon can make multi step request sequences without scripting and run on ZAPROXY active scanner
-<A class="setfont_archtect center_inlineblock"   HREF="https://gdgd009xcd.github.io/AutoMacroBuilderForZAP/"><IMG SRC="https://repository-images.githubusercontent.com/276077630/3e040703-9dfb-47cf-a48c-ca8c8e0c93c1" width="30%" height="30%"></A>
-<A class="setfont_archtect center_inlineblock" HREF="https://github.com/gdgd009xcd/AutoMacroBuilderForZAP"> Or Go to Github repository</A>
+<A class="setfont_archtect center_inlineblock"   HREF="https://gdgd009xcd.github.io/RequestRecorder/"><IMG SRC="https://repository-images.githubusercontent.com/276077630/1d728b49-c07a-4d39-a8c0-00447e67475b" width="30%" height="30%"></A>
+<A class="setfont_archtect center_inlineblock" HREF="https://github.com/gdgd009xcd/RequestRecorder"> Or Go to Github repository</A>
 
 enjoy.
